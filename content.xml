@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260507185917D5J2D9</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260507185917OI6HN2</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>EMOCIONES</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>PROYECTO SEGUNDO CURSO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>DIANA NAVAS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El nivel al que va dirigido es Segundo curso de la Etapa de Educación Primaria.
+La temporalización aproximada es un mes de trabajo hemos comenzado el proyecto en el Mes de Octubre y se dedican dos sesiones a la semana, una los martes de diez a once coincidiendo con mi sesión inclusiva de A.L. en Lengua y otra los jueves coincidiendo con Conocimiento del Medio, ambas se desarrollan en su clase de referencia, a través de asambleas o trabajo de gran grupo los martes y por parejas o grupos interactivos los jueves.
+Las materias implicadas son Lengua y Conocimiento del Medio, el Idioma es Castellano, con la colaboración de mi recurso como A.L. y tutora. 
+Como parte previa al desarrollo de nuestro proyecto fin de trimestre de cortos teatrales sobre historias sociales, he creído fundamental trabajar los principios y objetivos de la teoría de la Mente, y la empatía a través del trabajo de las emociones en este proyecto y situaciones sociales, muy útiles para todo el alumnado y para el que presenta necesidades pragmáticas dentro de la metodología DUA.
+Trabajar con las TIC supone mayor motivación y atractivo, porque supone mucha versatilidad en el tipo de actividades. A través de comics, presentaciones, tarjetas, invitamos al alumnado a poner texto lo que hay detrás de las imágenes, usando la imaginación, experiencia, empatía, descripciones, narraciones, contextualización. En principio le damos esas presentaciones y el siguiente paso es que lo creen ellos algo similar. Todo se recoge y valora con rúbricas y cuestionarios a alumnado y personal educativo del Centro.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778163463448</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+      <odeBlockId>block-1778165443455-1qzbw3ppy</odeBlockId>
+      <blockName>PROTECCIÓN DIGITAL</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+          <odeBlockId>block-1778165443455-1qzbw3ppy</odeBlockId>
+          <odeIdeviceId>idevice-1778165443453-su7l6dgca</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778165443453-su7l6dgca" title="" href="{{context_path}}/content/resources/Texto (2).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Texto (2).png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778165443453-su7l6dgca","img_0":{"img":"{{context_path}}/content/resources/Texto (2).png","thumbnail":"{{context_path}}/content/resources/Texto (2).png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+      <odeBlockId>block-1778165513390-4q7dr8vu2</odeBlockId>
+      <blockName>DESCRIPCIÓN PRODUCTO FINAL</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+          <odeBlockId>block-1778165513390-4q7dr8vu2</odeBlockId>
+          <odeIdeviceId>idevice-1778165513388-top4oi5bf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="TODO">TODO</span></dt><dd>30</dd></div><div class="inline"><dt><span title="TODO">TODO</span></dt><dd>TODOS</dd></div></dl><p><a href="https://xn--unidaddidcticaemociones-15b.my.canva.site/me-gustaria-como-a-l-inclusiva-proponer-un-proyecto-de-teatro-con-la-clase-de-segundo-de-primaria-en-un-centro-tic-con-la-estrategia-pedag-gica-flipped-clasroom-trabajar-los-contenidos-relacionados-con-la-competencia-emocional-y-los-pictogramas-de" title="justificación" rel="author"><em><strong>Me gustaria, como A.L. inclusiva, proponer un proyecto de teatro con la clase de segundo de Primaria, en un centro TIC, con la estrategia pedagógica flipped clasroom, trabajar los contenidos relacionados con la competencia emocional y los pictogramas de ARASAAC, con otras herramientas como Google Docs para la elaboración del guión, así como Google Classroom para una planificación coherente del trabajo colaborativo y de gestión óptima dentro del entorno educativo . </strong></em></a></p>
+<p><em><strong><a href="https://xn--unidaddidcticaemociones-15b.my.canva.site/me-gustaria-como-a-l-inclusiva-proponer-un-proyecto-de-teatro-con-la-clase-de-segundo-de-primaria-en-un-centro-tic-con-la-estrategia-pedag-gica-flipped-clasroom-trabajar-los-contenidos-relacionados-con-la-competencia-emocional-y-los-pictogramas-de" title="justificación" rel="author">Mi proyecto supone el trabajo previo en casa y en clase a través de enlaces y archivos recogidos en un Padlet con la colaboración e involucración de la tutora, personal del equipo de Orientación, del coordinador TIC y de las familias, que disponen de TIC y wifi todas ellas en sus hogares. Durante dos sesiones semanales, a través de grupos interactivos con tablets, ensayos y otras actividades relacionadas con el mencionado Padlet, se trabajarán diversos contenidos con el broche final de una representación teatral de escenas sociales cómicas con la participación de todo el centro.</a></strong></em></p>
+<p><em><strong><a href="https://xn--unidaddidcticaemociones-15b.my.canva.site/me-gustaria-como-a-l-inclusiva-proponer-un-proyecto-de-teatro-con-la-clase-de-segundo-de-primaria-en-un-centro-tic-con-la-estrategia-pedag-gica-flipped-clasroom-trabajar-los-contenidos-relacionados-con-la-competencia-emocional-y-los-pictogramas-de" title="justificación" rel="author">Pero la herramienta que usará mi alumnado para la realización de una actividad de elaboración de flipped cards de emociones (fotos y pictogramas) es  Canvas, una herramienta digital gratuita, versártil, intuitiva y visual, con muchas plantillas incorporadas que favorece la implicación del alumnado y una experiencia más atractiva y totalmente a su alcance. Además, su fácil difusión mediante enlaces facilita la visualización en el centro educativo. Aunque las edades del alumnado son 7 y 8 años, cuentan con una competencia digital básica, están habituados a las TIC en el centro, y Genially les permite, de forma autónoma y colaborativa, combinar imágenes con textos y sonido y movimiento, creando un producto final personalizado, claro y visual con la seguridad digital garantizada ya que se hace desde una cuenta docente, cumpliendo con la protección de datos. Es personalizable, permite añadir contenido multimedia, y se puede descargar en PDF, MP4 y otros formatos.</a></strong></em></p>
+<p><em><strong><a href="https://xn--unidaddidcticaemociones-15b.my.canva.site/me-gustaria-como-a-l-inclusiva-proponer-un-proyecto-de-teatro-con-la-clase-de-segundo-de-primaria-en-un-centro-tic-con-la-estrategia-pedag-gica-flipped-clasroom-trabajar-los-contenidos-relacionados-con-la-competencia-emocional-y-los-pictogramas-de" title="justificación" rel="author">En suma, creo que esta herramienta es bastante acertada para esta actividad de mi proyecto.</a></strong></em></p>
+<p><em><strong><img src="{{context_path}}/content/resources/Texto (2).png" title="código qr" width="145" height="145" alt="código qr" /></strong></em></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778165513388-top4oi5bf","textInfoDurationInput":"30","textInfoDurationTextInput":"TODO","textInfoParticipantsInput":"TODOS","textInfoParticipantsTextInput":"TODO","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"TODO\">TODO</span></dt><dd>30</dd></div><div class=\"inline\"><dt><span title=\"TODO\">TODO</span></dt><dd>TODOS</dd></div></dl><p><a href=\"https://xn--unidaddidcticaemociones-15b.my.canva.site/me-gustaria-como-a-l-inclusiva-proponer-un-proyecto-de-teatro-con-la-clase-de-segundo-de-primaria-en-un-centro-tic-con-la-estrategia-pedag-gica-flipped-clasroom-trabajar-los-contenidos-relacionados-con-la-competencia-emocional-y-los-pictogramas-de\" title=\"justificación\" rel=\"author\"><em><strong>Me gustaria, como A.L. inclusiva, proponer un proyecto de teatro con la clase de segundo de Primaria, en un centro TIC, con la estrategia pedagógica flipped clasroom, trabajar los contenidos relacionados con la competencia emocional y los pictogramas de ARASAAC, con otras herramientas como Google Docs para la elaboración del guión, así como Google Classroom para una planificación coherente del trabajo colaborativo y de gestión óptima dentro del entorno educativo . </strong></em></a></p>\n<p><em><strong><a href=\"https://xn--unidaddidcticaemociones-15b.my.canva.site/me-gustaria-como-a-l-inclusiva-proponer-un-proyecto-de-teatro-con-la-clase-de-segundo-de-primaria-en-un-centro-tic-con-la-estrategia-pedag-gica-flipped-clasroom-trabajar-los-contenidos-relacionados-con-la-competencia-emocional-y-los-pictogramas-de\" title=\"justificación\" rel=\"author\">Mi proyecto supone el trabajo previo en casa y en clase a través de enlaces y archivos recogidos en un Padlet con la colaboración e involucración de la tutora, personal del equipo de Orientación, del coordinador TIC y de las familias, que disponen de TIC y wifi todas ellas en sus hogares. Durante dos sesiones semanales, a través de grupos interactivos con tablets, ensayos y otras actividades relacionadas con el mencionado Padlet, se trabajarán diversos contenidos con el broche final de una representación teatral de escenas sociales cómicas con la participación de todo el centro.</a></strong></em></p>\n<p><em><strong><a href=\"https://xn--unidaddidcticaemociones-15b.my.canva.site/me-gustaria-como-a-l-inclusiva-proponer-un-proyecto-de-teatro-con-la-clase-de-segundo-de-primaria-en-un-centro-tic-con-la-estrategia-pedag-gica-flipped-clasroom-trabajar-los-contenidos-relacionados-con-la-competencia-emocional-y-los-pictogramas-de\" title=\"justificación\" rel=\"author\">Pero la herramienta que usará mi alumnado para la realización de una actividad de elaboración de flipped cards de emociones (fotos y pictogramas) es  Canvas, una herramienta digital gratuita, versártil, intuitiva y visual, con muchas plantillas incorporadas que favorece la implicación del alumnado y una experiencia más atractiva y totalmente a su alcance. Además, su fácil difusión mediante enlaces facilita la visualización en el centro educativo. Aunque las edades del alumnado son 7 y 8 años, cuentan con una competencia digital básica, están habituados a las TIC en el centro, y Genially les permite, de forma autónoma y colaborativa, combinar imágenes con textos y sonido y movimiento, creando un producto final personalizado, claro y visual con la seguridad digital garantizada ya que se hace desde una cuenta docente, cumpliendo con la protección de datos. Es personalizable, permite añadir contenido multimedia, y se puede descargar en PDF, MP4 y otros formatos.</a></strong></em></p>\n<p><em><strong><a href=\"https://xn--unidaddidcticaemociones-15b.my.canva.site/me-gustaria-como-a-l-inclusiva-proponer-un-proyecto-de-teatro-con-la-clase-de-segundo-de-primaria-en-un-centro-tic-con-la-estrategia-pedag-gica-flipped-clasroom-trabajar-los-contenidos-relacionados-con-la-competencia-emocional-y-los-pictogramas-de\" title=\"justificación\" rel=\"author\">En suma, creo que esta herramienta es bastante acertada para esta actividad de mi proyecto.</a></strong></em></p>\n<p><em><strong><img src=\"{{context_path}}/content/resources/Texto (2).png\" title=\"código qr\" width=\"145\" height=\"145\" alt=\"código qr\" /></strong></em></p></div>","textFeedbackInput":"FANTÁSTICO","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+      <odeBlockId>block-1778166423464-v2h42e8h3</odeBlockId>
+      <blockName>GENIALLY</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+          <odeBlockId>block-1778166423464-v2h42e8h3</odeBlockId>
+          <odeIdeviceId>idevice-1778166423462-7tm48e42s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>DISFRUTA DE ESTA OCA INTERACTIVA<a href="https://view.genially.com/69d679d921445ccddc9b16d6" title="genially lúdico [iframe - 247304 B]">https://view.genially.com/69d679d921445ccddc9b16d6</a><span class="exe-link-data file-size">(iframe - 247304 <abbr title="Bytes">B</abbr>)</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778166423462-7tm48e42s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>DISFRUTA DE ESTA OCA INTERACTIVA<a href=\"https://view.genially.com/69d679d921445ccddc9b16d6\" title=\"genially lúdico [iframe - 247304 B]\">https://view.genially.com/69d679d921445ccddc9b16d6</a><span class=\"exe-link-data file-size\">(iframe - 247304 <abbr title=\"Bytes\">B</abbr>)</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+      <odeBlockId>block-1778166953689-14xvd9xrh</odeBlockId>
+      <blockName>PADLET</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+          <odeBlockId>block-1778166953689-14xvd9xrh</odeBlockId>
+          <odeIdeviceId>idevice-1778166953686-5cohgs7df</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>BUSCA LA INFORMACIÓN MÁS ÚTIL<a href="https://padlet.com/dnavpac976/mi-padlet-resplandeciente-7897sxfb4xewlclq" title="padlet emociones">https://padlet.com/dnavpac976/mi-padlet-resplandeciente-7897sxfb4xewlclq</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778166953686-5cohgs7df","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>BUSCA LA INFORMACIÓN MÁS ÚTIL<a href=\"https://padlet.com/dnavpac976/mi-padlet-resplandeciente-7897sxfb4xewlclq\" title=\"padlet emociones\">https://padlet.com/dnavpac976/mi-padlet-resplandeciente-7897sxfb4xewlclq</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+      <odeBlockId>block-1778167212288-msz9qrr2n</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+          <odeBlockId>block-1778167212288-msz9qrr2n</odeBlockId>
+          <odeIdeviceId>idevice-1778167212287-j1lh2lq7j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://xn--unidaddidcticaemociones-15b.my.canva.site/dahi-z6175w" title="RELACIÓN INSTRUMENTOS EVALUACIÓN">https://xn--unidaddidcticaemociones-15b.my.canva.site/dahi-z6175w</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778167212287-j1lh2lq7j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"EVALUACIÓN HERRAMIENTAS","textTextarea":"<p><a href=\"https://xn--unidaddidcticaemociones-15b.my.canva.site/dahi-z6175w\" title=\"RELACIÓN INSTRUMENTOS EVALUACIÓN\">https://xn--unidaddidcticaemociones-15b.my.canva.site/dahi-z6175w</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+      <odeBlockId>block-1778168156866-67hyt7e6v</odeBlockId>
+      <blockName>TEMPORALIZACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+          <odeBlockId>block-1778168156866-67hyt7e6v</odeBlockId>
+          <odeIdeviceId>idevice-1778168156863-pizfc75ea</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://canva.link/ztl5os9drkuk4vp" title="organización temporal">https://canva.link/ztl5os9drkuk4vp</a><img src="{{context_path}}/content/resources/mapa.png" width="1000" height="563" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778168156863-pizfc75ea","textInfoDurationInput":"","textInfoDurationTextInput":"TEMPORALIZACIÓN","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"LEE LA ORGANIZACIÓN TEMPORAL","textTextarea":"<p><a href=\"https://canva.link/ztl5os9drkuk4vp\" title=\"organización temporal\">https://canva.link/ztl5os9drkuk4vp</a><img src=\"{{context_path}}/content/resources/mapa.png\" width=\"1000\" height=\"563\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+      <odeBlockId>block-1778168402432-j0js32rew</odeBlockId>
+      <blockName>WAKELET</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+          <odeBlockId>block-1778168402432-j0js32rew</odeBlockId>
+          <odeIdeviceId>idevice-1778168402430-xueeaykkd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://wakelet.com/i/invite?code=n9o87utu" title="wakelet emociones">https://wakelet.com/i/invite?code=n9o87utu</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778168402430-xueeaykkd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"INVESTIGA emociones","textTextarea":"<p><a href=\"https://wakelet.com/i/invite?code=n9o87utu\" title=\"wakelet emociones\">https://wakelet.com/i/invite?code=n9o87utu</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+      <odeBlockId>block-1778169260799-712lpmxjm</odeBlockId>
+      <blockName>INSTRUMENTOS EVALUACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>7</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+          <odeBlockId>block-1778169260799-712lpmxjm</odeBlockId>
+          <odeIdeviceId>idevice-1778169260792-68xv4pxj2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://canva.link/ags3mcurn145q8w" title="EVALUACIÓN">https://canva.link/ags3mcurn145q8w</a><a href="https://canva.link/ags3mcurn145q8w" title="EVALUACIÓN">https://canva.link/ags3mcurn145q8w</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778169260792-68xv4pxj2","textInfoDurationInput":"","textInfoDurationTextInput":"LEE","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"ABRE EL ENLACE","textTextarea":"<p><a href=\"https://canva.link/ags3mcurn145q8w\" title=\"EVALUACIÓN\">https://canva.link/ags3mcurn145q8w</a><a href=\"https://canva.link/ags3mcurn145q8w\" title=\"EVALUACIÓN\">https://canva.link/ags3mcurn145q8w</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+      <odeBlockId>block-1778169349657-2axq13fd3</odeBlockId>
+      <blockName>CRÉDITOS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>8</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+          <odeBlockId>block-1778169349657-2axq13fd3</odeBlockId>
+          <odeIdeviceId>idevice-1778169349656-g0lrzih43</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">EMOCIONES</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">El nivel al que va dirigido es Segundo curso de la Etapa de Educación Primaria.
+La temporalización aproximada es un mes de trabajo hemos comenzado el proyecto en el Mes de Octubre y se dedican dos sesiones a la semana, una los martes de diez a once coincidiendo con mi sesión inclusiva de A.L. en Lengua y otra los jueves coincidiendo con Conocimiento del Medio, ambas se desarrollan en su clase de referencia, a través de asambleas o trabajo de gran grupo los martes y por parejas o grupos interactivos los jueves.
+Las materias implicadas son Lengua y Conocimiento del Medio, el Idioma es Castellano, con la colaboración de mi recurso como A.L. y tutora. 
+Como parte previa al desarrollo de nuestro proyecto fin de trimestre de cortos teatrales sobre historias sociales, he creído fundamental trabajar los principios y objetivos de la teoría de la Mente, y la empatía a través del trabajo de las emociones en este proyecto y situaciones sociales, muy útiles para todo el alumnado y para el que presenta necesidades pragmáticas dentro de la metodología DUA.
+Trabajar con las TIC supone mayor motivación y atractivo, porque supone mucha versatilidad en el tipo de actividades. A través de comics, presentaciones, tarjetas, invitamos al alumnado a poner texto lo que hay detrás de las imágenes, usando la imaginación, experiencia, empatía, descripciones, narraciones, contextualización. En principio le damos esas presentaciones y el siguiente paso es que lo creen ellos algo similar. Todo se recoge y valora con rúbricas y cuestionarios a alumnado y personal educativo del Centro.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">DIANA NAVAS</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+      <odeBlockId>block-1778173018346-lxv0z8zh8</odeBlockId>
+      <blockName>UNIDAD DIDÁCTICA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>9</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>0fc69ffc-dec8-4042-acf2-59a40ec4ae08</odePageId>
+          <odeBlockId>block-1778173018346-lxv0z8zh8</odeBlockId>
+          <odeIdeviceId>idevice-1778173018337-6fy4sbprn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://canva.link/ags3mcurn145q8w" title="ANEXO: GUÍA DIDÁCTICA">https://canva.link/ags3mcurn145q8w</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778173018337-6fy4sbprn","textInfoDurationInput":"","textInfoDurationTextInput":"","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p><a href=\"https://canva.link/ags3mcurn145q8w\" title=\"ANEXO: GUÍA DIDÁCTICA\">https://canva.link/ags3mcurn145q8w</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
